@@ -70,11 +70,4 @@ The `Election_Report.pbix` file is a Power BI report that provides interactive v
 
 The `election_results_2024.csv` file contains the election results data used in this project. Make sure this file is in the same directory as the Jupyter Notebook when running the analysis.
 
-## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
-## Acknowledgements
-
-- The data used in this project is fictional and for demonstration purposes only.
-- The visualizations are created using Matplotlib and Seaborn libraries.
